@@ -7,7 +7,7 @@
 	(title_block
 		(title "NEC PC-Engine IFU-30 Main PCB")
 		(date "2025-05-12")
-		(rev "0.3")
+		(rev "0.4")
 		(company "Polykubos")
 		(comment 1 "Author: Regis Galland")
 		(comment 2 "NEC IFU-30 PCB reverse engineered schematics")
@@ -2487,7 +2487,7 @@
 				(pin passive line
 					(at 0 -6.35 0)
 					(length 3.81)
-					(name "D0"
+					(name "D7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2505,7 +2505,7 @@
 				(pin passive line
 					(at 0 -8.89 0)
 					(length 3.81)
-					(name "D1"
+					(name "D6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2523,7 +2523,7 @@
 				(pin passive line
 					(at 0 -11.43 0)
 					(length 3.81)
-					(name "D2"
+					(name "D5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2541,7 +2541,7 @@
 				(pin passive line
 					(at 0 -13.97 0)
 					(length 3.81)
-					(name "D3"
+					(name "D4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2559,7 +2559,7 @@
 				(pin passive line
 					(at 0 -16.51 0)
 					(length 3.81)
-					(name "D4"
+					(name "D3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2577,7 +2577,7 @@
 				(pin passive line
 					(at 0 -19.05 0)
 					(length 3.81)
-					(name "D5"
+					(name "D2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2595,7 +2595,7 @@
 				(pin passive line
 					(at 0 -21.59 0)
 					(length 3.81)
-					(name "D6"
+					(name "D1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2613,7 +2613,7 @@
 				(pin passive line
 					(at 0 -24.13 0)
 					(length 3.81)
-					(name "D7"
+					(name "D0"
 						(effects
 							(font
 								(size 1.27 1.27)

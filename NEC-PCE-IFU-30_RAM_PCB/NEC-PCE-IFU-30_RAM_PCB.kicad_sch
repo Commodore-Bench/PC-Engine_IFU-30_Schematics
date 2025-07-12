@@ -2682,7 +2682,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+			(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 				(at 0 -20.828 0)
 				(effects
 					(font
@@ -14344,7 +14344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
 			(at 369.57 38.1 0)
 			(effects
 				(font
@@ -14681,7 +14681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
 			(at 367.03 63.5 0)
 			(effects
 				(font
@@ -14822,7 +14822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 114.3 76.2 0)
 			(effects
 				(font
@@ -15011,7 +15011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 279.4 184.658 0)
 			(effects
 				(font
@@ -15271,7 +15271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 183.1848 123.19 0)
 			(effects
 				(font
@@ -15341,7 +15341,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 335.5848 123.19 0)
 			(effects
 				(font
@@ -15411,7 +15411,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 335.5848 40.64 0)
 			(effects
 				(font
@@ -15742,7 +15742,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 284.7848 123.19 0)
 			(effects
 				(font
@@ -15812,7 +15812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 330.2 102.108 0)
 			(effects
 				(font
@@ -16098,7 +16098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 114.3 132.08 0)
 			(effects
 				(font
@@ -16222,7 +16222,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 228.6 184.658 0)
 			(effects
 				(font
@@ -16636,7 +16636,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
 			(at 328.93 210.82 0)
 			(effects
 				(font
@@ -16795,7 +16795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 279.4 102.108 0)
 			(effects
 				(font
@@ -16925,7 +16925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 183.1848 40.64 0)
 			(effects
 				(font
@@ -16995,7 +16995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 233.9848 123.19 0)
 			(effects
 				(font
@@ -17130,7 +17130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 330.2 184.658 0)
 			(effects
 				(font
@@ -17325,7 +17325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
 			(at 170.18 210.82 0)
 			(effects
 				(font
@@ -17478,7 +17478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 177.8 184.658 0)
 			(effects
 				(font
@@ -17608,7 +17608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 177.8 102.108 0)
 			(effects
 				(font
@@ -17738,7 +17738,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 233.9848 40.64 0)
 			(effects
 				(font
@@ -17939,7 +17939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 284.7848 40.64 0)
 			(effects
 				(font
@@ -18072,7 +18072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 106.68 172.72 0)
 			(effects
 				(font
@@ -18249,7 +18249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-22_W7.62mm"
 			(at 228.6 102.108 0)
 			(effects
 				(font
